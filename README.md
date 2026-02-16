@@ -25,7 +25,7 @@ const ali = {
     location: "Istanbul, Turkey",
     education: ["MBA", "B.Sc. Industrial Engineering"],
     projectsDelivered: "15+ Major S/4HANA Projects",
-    clients: ["Erdemir", "Petkim", "Karaca", "Zorlu", "Milangaz"],
+    clients: ["Erdemir", "Petkim", "Karaca", "Zorlu", "Milangaz", "Çalık"],
     passions: ["Chess ♟️", "Photography 📸", "AI Research 🤖"]
 };
 ```
