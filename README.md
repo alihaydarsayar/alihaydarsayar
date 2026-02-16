@@ -2,7 +2,7 @@
   
 # 👨‍💻 Ali Haydar Sayar
 
-### SAP Fiori Developer | Digital Transformation Specialist
+### SAP Fiori Developer | SAPUI5 & OData Expert | JavaScript, Node.js | SAP BTP, SAP BUILD
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-haydar-sayar/)
 [![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://alihaydarsayar.com/)
