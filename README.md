@@ -16,7 +16,7 @@
 
 ## 🎯 About Me
 
-Results-driven **SAP Fiori Developer** with **4+ years** of hands-on experience delivering enterprise-grade applications across **manufacturing, energy, and retail** industries. Based in **Istanbul, Turkey** 🇹🇷
+Results-driven **SAP Fiori Developer** with **4+ years** of hands-on experience delivering enterprise-grade applications across **manufacturing, energy, and retail** industries. Based in **Istanbul, Turkey**
 
 ```javascript
 const ali = {
