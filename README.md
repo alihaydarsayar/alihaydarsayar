@@ -44,10 +44,13 @@ const ali = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend & Cloud
+![OData](https://img.shields.io/badge/OData-FF6C37?style=for-the-badge&logo=odata&logoColor=white)
+![ABAP](https://img.shields.io/badge/ABAP-0070F2?style=for-the-badge&logo=sap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![SAP BTP](https://img.shields.io/badge/SAP_BTP-0070F2?style=for-the-badge&logo=sap&logoColor=white)
 ![SAP CAP](https://img.shields.io/badge/SAP_CAP-0070F2?style=for-the-badge&logo=sap&logoColor=white)
-![OData](https://img.shields.io/badge/OData-FF6C37?style=for-the-badge&logo=odata&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![RAP](https://img.shields.io/badge/RAP-0070F2?style=for-the-badge&logo=sap&logoColor=white)
+![CDS](https://img.shields.io/badge/CDS-0070F2?style=for-the-badge&logo=sap&logoColor=white)
 
 ### Tools & Platforms
 ![SAP Build](https://img.shields.io/badge/SAP_Build-0070F2?style=for-the-badge&logo=sap&logoColor=white)
