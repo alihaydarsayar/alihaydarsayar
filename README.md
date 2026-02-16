@@ -125,8 +125,8 @@ const ali = {
 
 | Project | Type | Duration | Tech Stack |
 |---------|------|----------|------------|
-| 🏭 **Erdemir S/4HANA** | Custom Fiori Apps | Apr 2025 - Present | SAPUI5, OData, BTP |
-| ⚡ **Petkim S/4HANA** | Custom Fiori Apps | Aug 2024 - Present | SAP Fiori, CAP |
+| 🏭 **Erdemir S/4HANA** | Custom Fiori Apps | Apr 2025 - Present | SAPUI5, OData |
+| ⚡ **Petkim S/4HANA** | Custom Fiori Apps | Aug 2024 - Present | SAP Fiori |
 | 🔥 **Milangaz S/4HANA** | Custom Fiori Apps | Apr 2024 - Present | SAPUI5, JavaScript |
 | 🏠 **Karaca S/4HANA** | Standard Fiori Apps | Sep 2023 - Present | SAP Fiori Elements |
 | 🤖 **SAP Build Next Level** | Vendor Portal | Jan 2024 - Sep 2024 | SAP Build Apps |
@@ -159,7 +159,10 @@ mindmap
       SAPUI5
       SAP Fiori
       SAP CAP
-      OData Services
+      OData
+      SAP RAP
+      CDS
+      ABAP
     Cloud & BTP
       SAP BTP
       SAP Build
@@ -181,19 +184,6 @@ mindmap
 - 📄 **Request Forecast With Artificial Neural Networks** - CEOSSC 2020
 - 📊 **Students' Time Management & Academic Success** - 2019
 
----
-
-## 💡 What I'm Currently Learning
-
-<div align="center">
-
-![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![SAP Build](https://img.shields.io/badge/Advanced_SAP_Build-0070F2?style=for-the-badge&logo=sap&logoColor=white)
-![Cloud Native](https://img.shields.io/badge/Cloud_Native_Dev-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-</div>
-
----
 
 ## 🤝 Let's Connect!
 
